@@ -6,7 +6,6 @@ a.navbar-brand {
   text-align: center;
   word-break: break-all;
 }
-
 /* Provide sufficient contrast against white background */
 a {
   color: #0366d6;
@@ -27,9 +26,11 @@ a {
 /* Sticky footer styles
 -------------------------------------------------- */
 html {
-  font-size: 14px;
+    font-size: 14px;
+    --text-color-normal: #0a244d;
+    --text-color-light: #8cabd9;
 }
-@media (min-width: 768px) {
+@media (min-width: 1000px) {
   html {
     font-size: 16px;
   }

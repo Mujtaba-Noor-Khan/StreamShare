@@ -73,3 +73,11 @@ C:\Users\Saboo\source\repos\Mujtaba-Noor-Khan\StreamShare\StreamShare\obj\Debug\
 C:\Users\Saboo\source\repos\Mujtaba-Noor-Khan\StreamShare\StreamShare\obj\Debug\netcoreapp3.1\StreamShare.genruntimeconfig.cache
 C:\Users\Saboo\source\repos\Mujtaba-Noor-Khan\StreamShare\StreamShare\obj\Debug\netcoreapp3.1\StreamShare.csproj.CopyComplete
 C:\Users\Saboo\source\repos\Mujtaba-Noor-Khan\StreamShare\StreamShare\obj\Debug\netcoreapp3.1\Razor\Pages\About.cshtml.g.cs
+C:\Users\Saboo\source\repos\Mujtaba-Noor-Khan\StreamShare\StreamShare\bin\Debug\netcoreapp3.1\StreamShare\appsettings.Development.json
+C:\Users\Saboo\source\repos\Mujtaba-Noor-Khan\StreamShare\StreamShare\bin\Debug\netcoreapp3.1\StreamShare\appsettings.json
+C:\Users\Saboo\source\repos\Mujtaba-Noor-Khan\StreamShare\StreamShare\bin\Debug\netcoreapp3.1\StreamShare\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Saboo\source\repos\Mujtaba-Noor-Khan\StreamShare\StreamShare\bin\Debug\netcoreapp3.1\StreamShare\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Saboo\source\repos\Mujtaba-Noor-Khan\StreamShare\StreamShare\bin\Debug\netcoreapp3.1\StreamShare\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Saboo\source\repos\Mujtaba-Noor-Khan\StreamShare\StreamShare\bin\Debug\netcoreapp3.1\StreamShare\bin\Debug\netcoreapp3.1\StreamShare.deps.json
+C:\Users\Saboo\source\repos\Mujtaba-Noor-Khan\StreamShare\StreamShare\bin\Debug\netcoreapp3.1\StreamShare\bin\Debug\netcoreapp3.1\StreamShare.runtimeconfig.dev.json
+C:\Users\Saboo\source\repos\Mujtaba-Noor-Khan\StreamShare\StreamShare\bin\Debug\netcoreapp3.1\StreamShare\bin\Debug\netcoreapp3.1\StreamShare.runtimeconfig.json
